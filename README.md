@@ -24,10 +24,6 @@ Uma análise aprofundada sobre o mercado de trabalho em Data Science, explorando
   - Análise Descritiva e Exploratória (EDA) sobre salários de cientistas de dados (média, mediana, desvio-padrão).
   - Estudo da correlação entre salários, tamanho da empresa e modelos de trabalho (remoto, híbrido, presencial).
   - Comparação salarial por nível de experiência e localização geográfica.
-- **Integrantes:**
-  - Guilherme Nunes
-  - Kaique Zaffarani
-  - Kairo Silvestre
 - **Tecnologias:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn (LabelEncoder).
 - **Arquivo Principal:** `GS/GS_DS_SC.ipynb`
 
