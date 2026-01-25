@@ -1,8 +1,8 @@
-# Data Science and Statistical Computing
+# Data Science & Statistical Computing
 
-Este repositório contém notebooks desenvolvidos para a disciplina de Data Science e Statistical Computing, abrangendo análises exploratórias, estatísticas descritivas e modelos de machine learning (regressão e classificação).
+Este repositório contém notebooks desenvolvidos para a disciplina de Data Science % Statistical Computing, abrangendo análises exploratórias, estatísticas descritivas e modelos de machine learning (regressão e classificação).
 
-Abaixo estão os detalhes de cada entrega e projeto:
+Abaixo estão os detalhes de cada projeto:
 
 ## Checkpoint 4 (CP4)
 
