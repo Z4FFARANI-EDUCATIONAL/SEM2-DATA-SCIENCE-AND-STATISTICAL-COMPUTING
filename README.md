@@ -1,10 +1,10 @@
-# Data Science & Statistical Computing
+# DATA SCIENCE & STATISTICAL COMPUTING
 
 Este repositório contém notebooks desenvolvidos para a disciplina de Data Science % Statistical Computing, abrangendo análises exploratórias, estatísticas descritivas e modelos de machine learning (regressão e classificação).
 
 Abaixo estão os detalhes de cada projeto:
 
-## Checkpoint 4 (CP4)
+## CHECKPOINT 4 (CP4)
 
 Análise estatística focada em dois datasets distintos: o naufrágio do Titanic e listagens do Airbnb em Nova York.
 
@@ -14,7 +14,7 @@ Análise estatística focada em dois datasets distintos: o naufrágio do Titanic
 - **Tecnologias:** Python, Pandas, NumPy, Matplotlib.
 - **Arquivo Principal:** `CP4/CP4_DS_SC.ipynb`
 
-## Global Solution (GS)
+## GLOBAL SOLUTION (GS)
 
 **Projeto: O Futuro do Trabalho em Dados e Inteligência Artificial**
 
@@ -51,3 +51,11 @@ Resolução de um problema de classificação para determinar a confiabilidade d
   - Avaliação de modelos utilizando Acurácia, Precisão, Recall, F1-Score e Matriz de Confusão.
 - **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (KNeighborsClassifier, LogisticRegression, metrics).
 - **Arquivo Principal:** `SPRINT4/SPRINT4_DS_SC.ipynb`
+
+# TECNOLOGIAS
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://matplotlib.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
